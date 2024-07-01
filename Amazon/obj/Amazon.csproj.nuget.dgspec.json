@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\Amazon.csproj": {}
+    "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Amazon.csproj": {}
   },
   "projects": {
-    "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\Amazon.csproj": {
+    "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Amazon.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\Amazon.csproj",
+        "projectUniqueName": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Amazon.csproj",
         "projectName": "Amazon",
-        "projectPath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\Amazon.csproj",
+        "projectPath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Amazon.csproj",
         "packagesPath": "C:\\Users\\spiva\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\obj\\",
+        "outputPath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/AllI4/UsCl9LhOa0rK7rMSO/Xvgn3Udzs7CnZBSWNm4OuvTmNyvbqZTxUY23urULYsTcUlij77zCxZCATUc9A==",
+  "dgSpecHash": "eoSvM5JZbepa9wcrKbej9qAmfE/MMotjW5+M9u0gkmYkEZy7vkTa+Qra9Ygn+kf5kbvrwAuPGy4P+yMrnKmefw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Desktop\\Amazon\\Amazon\\Amazon.csproj",
+  "projectFilePath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Amazon.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\spiva\\.nuget\\packages\\bodi\\1.5.0\\bodi.1.5.0.nupkg.sha512",
     "C:\\Users\\spiva\\.nuget\\packages\\fluentassertions\\6.2.0\\fluentassertions.6.2.0.nupkg.sha512",
