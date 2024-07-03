@@ -1,5 +1,6 @@
 using OpenQA.Selenium;
 using OpenQA.Selenium.Chrome;
+using OpenQA.Selenium.Interactions;
 
 namespace Amazon.StepDefinitions
 {
@@ -25,13 +26,49 @@ namespace Amazon.StepDefinitions
         {
             IWebElement searchBarButton = driver.FindElement(By.Id("nav-search-submit-button"));
             searchBarButton.Click();
-           
+
         }
 
         [Then(@"some results should appear")]
         public void ThenSomeResultsShouldAppear()
         {
             driver.PageSource.Should().NotContain("No results for");
+        }
+
+        [When(@"a user scrolls down to the needed item")]
+        public void WhenAUserScrollsDownToTheNeededItem()
+        {
+            // Locate the item using CSS selector for the class names
+            IWebElement item = driver.FindElement(By.XPath("//span[contains(text(),'Redken Shampoo, Volume')]"));
+
+            // Initialize Actions class
+            Actions actions = new(driver);
+
+            // Move to the item and click it
+            actions.MoveToElement(item).Perform();
+
+        }
+
+
+        [When(@"the user clicks on the item")]
+        public void WhenTheUserClicksOnTheItem()
+        {
+            IWebElement item = driver.FindElement(By.XPath("//span[contains(text(),'Redken Shampoo, Volume')]"));
+            item.Click();
+
+        }
+        [When(@"the user clicks the ""([^""]*)"" button")]
+        public void WhenTheUserClicksTheButton(string p0)
+        {
+            IWebElement cartButton = driver.FindElement(By.Id("add-to-cart-button"));
+            cartButton.Click();
+        }
+
+        [Then(@"the item should be added to the cart")]
+        public void ThenTheItemShouldBeAddedToTheCart()
+        {
+            IWebElement navigateCart = driver.FindElement(By.Id("sw-gtc"));
+            navigateCart.Click();
         }
 
     }
