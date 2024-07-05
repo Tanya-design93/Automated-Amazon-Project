@@ -71,5 +71,42 @@ namespace Amazon.StepDefinitions
             navigateCart.Click();
         }
 
+        [Given(@"clicks on the home button on the home tab")]
+        public void GivenClicksOnTheHomeButtonOnTheHomeTab()
+        {
+            IWebElement homeButton = driver.FindElement(By.LinkText("Home"));
+            homeButton.Click();
+        }
+
+        [When(@"the user clicks on the vacuums")]
+        public void WhenTheUserClicksOnTheVacuums()
+        {
+            IWebElement secondItem = driver.FindElement(By.LinkText("Vacuums"));
+            secondItem.Click();
+        }
+
+        [When(@"a user clicks on the carpet option")]
+        public void WhenAUserClicksOnTheCarpetOption()
+        {
+            IWebElement carpetCheckbox = driver.FindElement(By.LinkText("Carpet"));
+            carpetCheckbox.Click();
+
+        }
+
+        [When(@"clicks on the first item that appears")]
+        public void WhenClicksOnTheFirstItemThatAppears()
+        {
+            IWebElement vacuum = driver.FindElement(By.PartialLinkText("dreame L20"));
+            vacuum.Click();
+        }
+
+        [Then(@"the item should be a vacuum")]
+        public void ThenTheItemShouldBeAVacuum()
+        {
+            IWebElement productTitle = driver.FindElement(By.Id("productTitle"));
+            productTitle.Click();
+        }
+
     }
+
 }
