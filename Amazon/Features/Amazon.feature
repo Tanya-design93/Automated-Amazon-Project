@@ -22,4 +22,5 @@ Scenario: User adds item to the cart
 	And clicks on the home button on the home tab
 	When the user clicks on the vacuums
 	And a user clicks on the carpet option
+	And clicks on the first item that appears
 	Then the item should be a vacuum 
