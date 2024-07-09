@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|c:\\users\\spiva\\onedrive - nova scotia community college\\documents\\github\\automated-amazon-project\\amazon\\.runsettings||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|solutionrelative:amazon\\.runsettings||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|c:\\users\\spiva\\onedrive - nova scotia community college\\documents\\github\\automated-amazon-project\\amazon\\features\\amazon.feature||{8B382828-6202-11D1-8870-0000F87579D2}",
       "RelativeMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|solutionrelative:amazon\\features\\amazon.feature||{8B382828-6202-11D1-8870-0000F87579D2}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|c:\\users\\spiva\\onedrive - nova scotia community college\\documents\\github\\automated-amazon-project\\amazon\\stepdefinitions\\amazonstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|solutionrelative:amazon\\stepdefinitions\\amazonstepdefinitions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|c:\\users\\spiva\\onedrive - nova scotia community college\\documents\\github\\automated-amazon-project\\amazon\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{362A86D3-D1B9-494D-8488-1E424D7A826E}|Amazon\\Amazon.csproj|solutionrelative:amazon\\hooks.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,30 +26,54 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": ".runsettings",
+              "DocumentMoniker": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\.runsettings",
+              "RelativeDocumentMoniker": "Amazon\\.runsettings",
+              "ToolTip": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\.runsettings",
+              "RelativeToolTip": "Amazon\\.runsettings",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-09T22:34:57.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "hooks.cs",
+              "DocumentMoniker": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\hooks.cs",
+              "RelativeDocumentMoniker": "Amazon\\hooks.cs",
+              "ToolTip": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\hooks.cs",
+              "RelativeToolTip": "Amazon\\hooks.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-09T21:40:08.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "AmazonStepDefinitions.cs",
               "DocumentMoniker": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\StepDefinitions\\AmazonStepDefinitions.cs",
               "RelativeDocumentMoniker": "Amazon\\StepDefinitions\\AmazonStepDefinitions.cs",
               "ToolTip": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\StepDefinitions\\AmazonStepDefinitions.cs",
               "RelativeToolTip": "Amazon\\StepDefinitions\\AmazonStepDefinitions.cs",
-              "ViewState": "AQIAADAAAAAAAAAAAAAiwEsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-07-03T20:07:47.479Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-07-03T20:07:47.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Amazon.feature",
               "DocumentMoniker": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Features\\Amazon.feature",
               "RelativeDocumentMoniker": "Amazon\\Features\\Amazon.feature",
               "ToolTip": "C:\\Users\\spiva\\OneDrive - Nova Scotia Community College\\Documents\\GitHub\\Automated-Amazon-Project\\Amazon\\Features\\Amazon.feature",
               "RelativeToolTip": "Amazon\\Features\\Amazon.feature",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAwwBAAAAAqAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAkAAAA",
               "Icon": "00000000-0000-0000-0000-000000000000.000000|iVBORw0KGgoAAAANSUhEUgAAACgAAAAoCAYAAACM/rhtAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAAJcEhZcwAADsMAAA7DAcdvqGQAAAliSURBVFhH1VhrcFTlGX7O3je7mxAggZBASJBLYyj3iw5gUSlg7QhUBxxldBBH7XSm03aG6Q/qtD9gHFpHR\u002BuMUEstqIMODoKOrbQIQsULhEsiJDFXk5CQ2yab7G72fvq8Z0PYQ05upT/aZ\u002BdNvu87t\u002Be89\u002B/gfxqqqir9w9EjwwSMN1mgIA1pJhd2TsyCGs/lkWyKg3eNA0ovFLUDdnsjnm/tQSARgIogvIk4fAntNqPF6AmaKfc67Si2ZWGxvYBXLoKiLOOqkEun2PvPUilRSpjSRWnkytdI4DzOhxpwJerFp8Eo\u002BBqjwcgEt1OWU0oy0nGPYy4ftpayklfmc7Vfa6BaB0GICo0gpY1STfmUjzyOzwJVeL23j/MRMTLBg5THKIcmP02zPcXRTIpoTLQ1WgjZGMVLuYhEYg8eaz8lB0bC8ATXehRs9eTBHN/J2dPJxf8KVP624WzoCF7z9Wj0h4CxFoT2RpsZmzOLYYn/nLOfUFxyKBUWxQKzYtaelgqFP5vJBitjKa4aBoWcUoRplj4GWhO\u002BjQY0/RrAmKCVcsBZgC7LExxtoORQBrQtd/dY3Fg2YQHyXVPp/yoCsSD/J7RjkxzZWJQ5D0UZs5Agwc6IxMogiJuMx0xrOyyoR1kkklzWw5jgsxkWuNO2cPQoZQZFd57T7MSKrGV4Yd5OrMq\u002BC25LGmr89eiJ9sJusuPhqT/Gc3c8gXU592KGezqONX/Sf6UOcs/xFDsKrVdxLNDC9xsEo\u002BgD7nZO4d/HKbMoFllKhdviwkN567Awcy61uBCb8h7Qxmb\u002BRLOP52/C3RMWY964IjyavxFWRUxiCHGbpfSTTfxvyEW/KPdxKApM6h84\u002Bh7FJsu3IsZc3BBo1sYmmjTbnoXlExfBbrZjAd12hjsfTosDsUQMjcFriKqSFg0hbpPHv1twMHtBckkPPcFt6Va8mVXIC\u002B7nTBcULnMaMqzpSKN5A7EA3m34AJW9NQjGQ6xICcQTYh9VIyWBEUlEURdsxEuV\u002B5I3GB6ZlKcw16YgT28wvQ8utrsx3foQRxK1Gnlx\u002BjT62IbctZo5c5yTNcdvDl1Ha6gNHpsL3ogPJ9rOoMxXTnJxLBk/n8fa8cG1v\u002BEQX8TPFxoBZKVMwX1p\u002B2FXIjgnRSiJm3lwHivVdk8OJppf5uyR5CI9mGb7/rg78dayPzJ1WLVAuNBdhr01B/GNrwKzPTOQbZuAsp5KNNGcEiQrs5ZTg2FU\u002B79DS9/1QWnIAHKCJIN7cKrvAvb1hJLLqQTXukzY5plN9bzP2ZzkInOBxYPN\u002BRuwd/EebS7aC8T6SK4cq09uoj/GqGqzprkbRCzMjfI0OXdMUPErEvwLCXb3r6T4YFx18I5SXz3JhST8MT8ON36Ez9vPoSvSjSh9SzQ5f1wxNuY9SN90aSRTtSRBNGZyAgXFFF1g3vTBQosTC\u002B1zOVpPcWtrhDw2Eo/gVNtZVPbUoCZQj4tdZThC/zpK6Yn16sjdJtpRHzuGkrC/f55K0CoEizlaQ9FFsBDojvrQTH\u002BqYOQKwfNdl9ER6tBMORI8VrcW/SaaXrSbfG1DtJHg\u002ByTY0z/XpRleNfTVE2yZjOBJKGBpm5qWi4mcW2nq4SC1elpaHtZM/gEezF2DVQyeAvc0rRINgUFFIXVByIlqBzmPib9fzn4OG6euRxYjVlVU\u002BCN\u002BPPzFdnzTXYkwI9YIk51Z\u002BNPSF7Ekcz61p2jBdcl7BbsqXsbZjq/7z9JhUEa/qUGF/YSidHKkK9rpVg\u002B2Tn8Evy76mZZSMu0ZXEvX0k99oEkLEMmVRgiS0MnWfzGPOrQSmOPMxpopK3FkxX4eNbhGRRNFRzLFxArVoEj9EpIDkPQRiAeYjLvhZ1fUEfbigvcynr\u002ByB72RXuQ5c7U8mcVyJ5CUU\u002BDKRyGbBNH8/rpDrDpHmRNr0RnugpdS1VvHMw09qYaiI3gzSOT8QqsFmaYijhZqa4TWLoV9GGfzsK424wxNc6jhCI5fP41Z1Oiz7Fp\u002BlHs/620MFT1VcDEZ7JjzUzyQcx/HLpbDapR0leIaA\u002Bwaq09Zdzne4fWyPhjqawySCgbJgBX1en4mw4PVzg0srmID0a52XEw4hQEiQRFmyvExN0r9/euyV7Bi4lI6bQLvNX6InaUvIIMv8vGqtzUt1vsb8Gr1n7G/9hDdwqWVTEF3pAd9cd2WRPw\u002BCiVejJOh77DXP9C\u002BpkYxEWWQhD7iQIrnQLBImhEN1Aca0RJqpVbjmJ95J\u002BvzOjanWSxvNs3HTIoJDlPS3zzU3pz0mfhN0S/YTZngY4ls6WvV5BZyAjFrFbZ31uLNm\u002BQEeoJ7gyq2dHdRYS9y1kExdBQH6\u002B2SzAWwsKUX\u002BOiLpd1XtCrjZfcsPhYkCWn589KmYHb6HbAN3RPKM\u002Bj36kvwq6q2WU3BLRrsh1k5SJIlHBm2IeFEBKW\u002Bq6gmkbpAA770luB0\u002B5dsECLUTojmPooSb6nWZX/VeUFL8MkEbQhRZzkJ/j051UPfbt1ATPWj2C5vVkCRva/uPInsTkZze7iDVeUKPm45gau\u002BSkTUCI8l0Mb1hsA1XGBwvNd4DFX\u002BOs1PDSCsGdLqO3jXfwoVsUEWM05gsvpDZw6e9HDTpDzJ2aB9iUBaf\u002BlcRGvSoN6oyRJUDuZJqSRyTHLlEGDXon4Id\u002B9ubOyrNNrZGWtQUMtQDat1mGuXTxqLKPJfByEVYhURjd4KISUmH0JzAnkbmhav4nfBi2hJGPrA0AQF3zL0JltKMNVSz9lSKkY8Xa4x1vxYoKo1rFy/xQH/SXwels8jhhieoCDDFEUgUctN9iXeUKq8fIsRkRD\u002BT4hKSmmh7EJ7/Dg\u002BC3WjdcgAGgXBWjrGOWb2iNqMhY5yWuw6V1O9RYgOJPVhICYVTV3l8AAO9L6F06EulEYGBUYqRiZ4A9XRKC6H26GayzHT/hW3cVWkJGlIfHMcZbjeS0hIp3SJ8gZ2db2Ns0wDrfFhyQnGbiLRVTJ7KnAzE7\u002BevZ7\u002BtJtzqeFDQTR\u002Bii7ye\u002Bz2nqHWBjZFI8E4UQ8HCUp5nGxD4vwpipEDiWbE1\u002BRzWwVnz8Bm3YzDoX\u002BMhZxg7ASHhxDzUaooJyivUNFbuVM7jBMBH\u002BqMG9vhcHvpws0u4I1Jq2niHZzJp2AhJ7ntC6r6Mj7pa0JTohP/DOp6vLHgdgkq2DdpNhV3F2cBmrEcO67L514JiBBa4nH0jRgH/88A/g3/v8SBJ0LZ0wAAAABJRU5ErkJggg==",
               "WhenOpened": "2024-07-03T20:07:28.212Z",
               "EditorCaption": ""
